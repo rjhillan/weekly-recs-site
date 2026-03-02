@@ -1,91 +1,120 @@
 {
   "week_of": "March 02, 2026",
-  "user_name": "RJ",
+  "user_name": "Rhys",
   "season": "spring",
-  "weekly_theme": "The Soft Machine",
-  "weekly_theme_description": "Something about the way things bend before they break this week.",
+  "weekly_theme": "Instructions for Looking Sideways",
+  "weekly_theme_description": "Been thinking about how some things only make sense if you don't look straight at them. Peripheral vision, glances caught in mirrors, the way certain sounds clarify when you turn your head slightly. Everything this week rewards the indirect approach.",
   "hero_art": {
-    "artist_name": "Rebecca Horn",
-    "work_title": "Pencil Mask",
-    "medium": "Performance / Sculpture",
-    "period": "1972",
-    "source": "Tate",
-    "description": "Pencils strapped to the face like a second skeleton.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Pencil_Mask_by_Rebecca_Horn.jpg"
+    "artist_name": "Philip Guston",
+    "work_title": "The Street",
+    "medium": "Oil on canvas",
+    "period": "Late period, 1977",
+    "description": "Pink cartoon figures in pointed hoods driving a car full of disembodied legs. Looks like a comic strip until you realize what you're actually looking at. Guston painted these after abandoning abstract expressionism and everyone hated them at first.",
+    "image_url": "https://www.artic.edu/iiif/2/6884e725-f7ae-cb1c-853a-201fc4fe5630/full/843,/0/default.jpg",
+    "source": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/90583"
   },
   "album_pick": {
-    "album": "Geogaddi",
-    "artist": "Boards of Canada",
-    "year": "2002",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273904e45a8424e11a3e2573e45",
-    "standout_track": "Music Is Math",
-    "is_new_artist": true,
-    "ai_description": "Sixty-six minutes of music that sounds like a half-remembered nature documentary."
+    "album": "Immunity",
+    "artist": "Clairo",
+    "year": "2019",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82",
+    "standout_track": "Bags",
+    "is_new_artist": false,
+    "ai_description": "Feels like overhearing someone working through something real in another room. The production is warmer than you expect, guitars sit next to drum machines like they've always belonged together. Gets better the quieter you play it.",
+    "id": "2DDv7gTOpB3D3kDEHddP9z",
+    "standout_track_id": "56NEihhw1BsIgBBzfvcE76",
+    "name": "Bags"
   },
   "film_pick": {
-    "title": "Stalker",
-    "director": "Andrei Tarkovsky",
-    "year": "1979",
-    "ai_description": "Three men walk into a forbidden zone."
+    "title": "Mulholland Drive",
+    "director": "David Lynch",
+    "year": "2001",
+    "poster": null,
+    "url": "",
+    "letterboxd_url": "",
+    "ai_description": "The plot dissolves if you try to follow it straight through, but it holds together perfectly if you let it wash over you sideways. Naomi Watts does two different versions of the same person, or maybe the same version of two people. Makes more sense at 2am."
   },
   "book_pick": {
-    "title": "The Soft Machine",
-    "author": "William S. Burroughs",
-    "year": "1961",
-    "ai_description": "Burroughs took his manuscript, cut it into pieces, rearranged it."
+    "title": "Remainder",
+    "author": "Tom McCarthy",
+    "year": "2007",
+    "cover": "https://covers.openlibrary.org/b/id/167457-M.jpg",
+    "subjects": [],
+    "url": "https://openlibrary.org/works/OL9160967W",
+    "page_count": "",
+    "ai_description": "A man gets a settlement after an accident he can't remember and spends it recreating moments that feel real by making them absolutely perfect. Gets stranger and more obsessive as it goes. The sentences are clean and flat in a way that makes the weirdness hit harder."
   },
   "poem": {
-    "title": "Rooms",
-    "author": "Charlotte Mew",
-    "year": "1916",
-    "full_text": "I remember rooms that have had their part\nIn the steady slowing down of the heart.",
-    "note": "Rooms as losses."
+    "title": "The Red Wheelbarrow",
+    "author": "William Carlos Williams",
+    "year": "1923",
+    "full_text": "so much depends\nupon\n\na red wheel\nbarrow\n\nglazed with rain\nwater\n\nbeside the white\nchickens.",
+    "note": "Everything important is in how you break the lines, where your eye has to pause and shift."
   },
   "article": {
-    "title": "The Ecstasy of Influence",
-    "author": "Jonathan Lethem",
-    "publication": "Harper's Magazine",
-    "description": "An essay about plagiarism and influence."
+    "title": "A Rape on Campus",
+    "author": "Sabrina Rubin Erdely",
+    "publication": "Rolling Stone",
+    "description": "A notorious piece of journalism that fell apart under scrutiny, later retracted. Including it not for what it claimed but as an example of how narrative can bend truth when you want a story to fit too badly. Worth reading about rather than reading directly."
   },
   "video_essays": [
     {
-      "title": "Boards of Canada Analysis",
-      "channel": "Solar Sands",
-      "duration": "18:42",
-      "thumbnail": "",
-      "video_id": "dQw4w9WgXcQ"
+      "title": "&quot;Fear of Depths&quot; | Atrioc Reacts",
+      "channel": "Atrioc",
+      "url": "https://www.youtube.com/watch?v=Zk2voNZnDpI",
+      "thumbnail": "https://i.ytimg.com/vi/Zk2voNZnDpI/hqdefault.jpg",
+      "duration": "19:21",
+      "description": "i made some jokes but this video actually rules - shoutout Jacob Geller ORIGINAL VIDEO \u25bb https://youtu.be/7MOKTU9tCbw ...",
+      "video_id": "Zk2voNZnDpI"
     }
   ],
+  "connection_web": "Guston's hooded figures are cartoons that stop being funny the moment you see them clearly, same way Mulholland Drive only coheres when you stop trying to solve it. The wheelbarrow poem does everything through what it doesn't say. Clairo's album sounds like bedroom pop until you notice the studio craft holding it all up, just out of frame. McCarthy's narrator can only feel real by building elaborate fakes.",
+  "reflection_prompt": "What have you understood better by looking away from it?",
   "events": [
     {
-      "name": "Basquiat: King Pleasure",
+      "name": "What's on at Rough Trade East",
+      "venue": "Rough Trade East",
+      "date": "Week of 02 March 2026",
+      "url": "https://www.roughtrade.com/events",
+      "type": "Music / In-Store"
+    },
+    {
+      "name": "What's on at Barbican",
       "venue": "Barbican Centre",
-      "date": "Until 15 March",
-      "url": "https://www.barbican.org.uk/whats-on/2026/basquiat",
-      "type": "Art"
+      "date": "Week of 02 March 2026",
+      "url": "https://www.barbican.org.uk/whats-on",
+      "type": "Music / Art / Film"
     },
     {
-      "name": "London Contemporary Orchestra",
+      "name": "What's on at Southbank Centre",
       "venue": "Southbank Centre",
-      "date": "Friday 6 March",
-      "url": "https://www.southbankcentre.co.uk/whats-on/lco",
-      "type": "Music"
+      "date": "Week of 02 March 2026",
+      "url": "https://www.southbankcentre.co.uk/whats-on",
+      "type": "Music / Art / Literature"
     },
     {
-      "name": "Stalker (35mm)",
-      "venue": "BFI Southbank",
-      "date": "Saturday 7 March",
-      "url": "https://www.bfi.org.uk/whats-on/stalker",
-      "type": "Film"
+      "name": "What's on at Tate Modern",
+      "venue": "Tate Modern",
+      "date": "Week of 02 March 2026",
+      "url": "https://www.tate.org.uk/visit/tate-modern/whats-on",
+      "type": "Art / Exhibition"
     }
   ],
-  "connection_web": "Everything connects through soft machines.",
-  "reflection_prompt": "When did you last make something without knowing what it would be?",
   "taste_summary": {
+    "top_artists": [
+      "BROCKHAMPTON",
+      "Angelo De Augustine",
+      "Aphex Twin",
+      "Gorillaz",
+      "Alexisonfire"
+    ],
     "top_genres": [
-      "ambient",
-      "electronic",
-      "art rock"
+      "art pop",
+      "experimental hip-hop",
+      "post-rock",
+      "IDM",
+      "industrial"
     ]
   }
 }
