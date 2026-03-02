@@ -1,0 +1,91 @@
+{
+  "week_of": "March 02, 2026",
+  "user_name": "RJ",
+  "season": "spring",
+  "weekly_theme": "The Soft Machine",
+  "weekly_theme_description": "Something about the way things bend before they break this week.",
+  "hero_art": {
+    "artist_name": "Rebecca Horn",
+    "work_title": "Pencil Mask",
+    "medium": "Performance / Sculpture",
+    "period": "1972",
+    "source": "Tate",
+    "description": "Pencils strapped to the face like a second skeleton.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Pencil_Mask_by_Rebecca_Horn.jpg"
+  },
+  "album_pick": {
+    "album": "Geogaddi",
+    "artist": "Boards of Canada",
+    "year": "2002",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273904e45a8424e11a3e2573e45",
+    "standout_track": "Music Is Math",
+    "is_new_artist": true,
+    "ai_description": "Sixty-six minutes of music that sounds like a half-remembered nature documentary."
+  },
+  "film_pick": {
+    "title": "Stalker",
+    "director": "Andrei Tarkovsky",
+    "year": "1979",
+    "ai_description": "Three men walk into a forbidden zone."
+  },
+  "book_pick": {
+    "title": "The Soft Machine",
+    "author": "William S. Burroughs",
+    "year": "1961",
+    "ai_description": "Burroughs took his manuscript, cut it into pieces, rearranged it."
+  },
+  "poem": {
+    "title": "Rooms",
+    "author": "Charlotte Mew",
+    "year": "1916",
+    "full_text": "I remember rooms that have had their part\nIn the steady slowing down of the heart.",
+    "note": "Rooms as losses."
+  },
+  "article": {
+    "title": "The Ecstasy of Influence",
+    "author": "Jonathan Lethem",
+    "publication": "Harper's Magazine",
+    "description": "An essay about plagiarism and influence."
+  },
+  "video_essays": [
+    {
+      "title": "Boards of Canada Analysis",
+      "channel": "Solar Sands",
+      "duration": "18:42",
+      "thumbnail": "",
+      "video_id": "dQw4w9WgXcQ"
+    }
+  ],
+  "events": [
+    {
+      "name": "Basquiat: King Pleasure",
+      "venue": "Barbican Centre",
+      "date": "Until 15 March",
+      "url": "https://www.barbican.org.uk/whats-on/2026/basquiat",
+      "type": "Art"
+    },
+    {
+      "name": "London Contemporary Orchestra",
+      "venue": "Southbank Centre",
+      "date": "Friday 6 March",
+      "url": "https://www.southbankcentre.co.uk/whats-on/lco",
+      "type": "Music"
+    },
+    {
+      "name": "Stalker (35mm)",
+      "venue": "BFI Southbank",
+      "date": "Saturday 7 March",
+      "url": "https://www.bfi.org.uk/whats-on/stalker",
+      "type": "Film"
+    }
+  ],
+  "connection_web": "Everything connects through soft machines.",
+  "reflection_prompt": "When did you last make something without knowing what it would be?",
+  "taste_summary": {
+    "top_genres": [
+      "ambient",
+      "electronic",
+      "art rock"
+    ]
+  }
+}
