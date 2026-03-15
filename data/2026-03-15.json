@@ -1,0 +1,110 @@
+{
+  "week_of": "March 15, 2026",
+  "user_name": "Rhys",
+  "season": "spring",
+  "weekly_theme": "The Space Between Decisions",
+  "weekly_theme_description": "Everything this week lives in that weird pause before something shifts. Not indecision exactly, more like the feeling of standing at a crossroads long enough that the waiting becomes its own kind of movement.",
+  "hero_art": {
+    "artist_name": "Edward Hopper",
+    "work_title": "Automat",
+    "medium": "Oil on canvas",
+    "period": "American Realism",
+    "description": "Woman alone at a table in a bright automat, still wearing her coat and gloves, staring at her coffee. The windows behind her just show darkness. You can feel the pause before she decides to leave or stay.",
+    "image_url": "https://www.artic.edu/iiif/2/831a05de-d3f6-f4fa-a460-23008dd58dda/full/843,/0/default.jpg",
+    "source": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/111628"
+  },
+  "album_pick": {
+    "album": "Immunity",
+    "artist": "Clairo",
+    "year": "2019",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82",
+    "standout_track": "Bags",
+    "is_new_artist": false,
+    "ai_description": "Soft-focus bedroom pop that's actually about hard choices. The production floats but the lyrics stay grounded. Gets better every time you notice another layer buried in there.",
+    "id": "2DDv7gTOpB3D3kDEHddP9z",
+    "standout_track_id": "56NEihhw1BsIgBBzfvcE76",
+    "name": "Bags"
+  },
+  "film_pick": {
+    "title": "After Yang",
+    "director": "Kogonada",
+    "year": "2021",
+    "poster": null,
+    "url": "",
+    "letterboxd_url": "",
+    "ai_description": "A family loses their android companion and has to figure out what they were putting off while he was around. Moves slowly on purpose. Every frame looks like something you'd stop and stare at in a gallery."
+  },
+  "book_pick": {
+    "title": "Weather",
+    "author": "Jenny Offill",
+    "year": "2020",
+    "cover": "https://covers.openlibrary.org/b/id/9268165-M.jpg",
+    "subjects": [],
+    "url": "https://openlibrary.org/works/OL20644306W",
+    "page_count": "",
+    "ai_description": "Short chapters that feel like notes someone left themselves. A librarian answers climate doomsday emails while trying to live a normal life. Funny in a way that makes the anxiety worse and better at the same time."
+  },
+  "poem": {
+    "title": "The Summer Day",
+    "author": "Mary Oliver",
+    "year": "1992",
+    "full_text": "Who made the world?\nWho made the swan, and the black bear?\nWho made the grasshopper?\nThis grasshopper, I mean\u2014\nthe one who has flung herself out of the grass,\nthe one who is eating sugar out of my hand,\nwho is moving her jaws back and forth instead of up and down\u2014\nwho is gazing around with her enormous and complicated eyes.\nNow she lifts her pale forearms and thoroughly washes her face.\nNow she snaps her wings open, and floats away.\nI don't know exactly what a prayer is.\nI do know how to pay attention, how to fall down\ninto the grass, how to kneel down in the grass,\nhow to be idle and blessed, how to stroll through the fields,\nwhich is what I have been doing all day.\nTell me, what else should I have done?\nDoesn't everything die at last, and too soon?\nTell me, what is it you plan to do\nwith your one wild and precious life?",
+    "note": "The question at the end only works because of all the watching that comes before it."
+  },
+  "article": {
+    "title": "On Keeping a Notebook",
+    "author": "Joan Didion",
+    "publication": "Slouching Towards Bethlehem (originally in Holiday magazine)",
+    "description": "Didion on why she writes things down and what those scraps of observation are actually for. Not about memory the way you'd think. More about preserving the person who noticed something in the first place."
+  },
+  "video_essays": [],
+  "connection_web": "Hopper's automat woman has the same quality as the narrator in Weather, both caught in a moment that could tip either way. Clairo's production does what Kogonada does with his frames, holding on things longer than feels comfortable until the stillness starts meaning something. Oliver's grasshopper just leaves, which is maybe the answer to the question everyone else is stuck asking.",
+  "reflection_prompt": "When did waiting for clarity become the same thing as avoiding the decision?",
+  "events": [
+    {
+      "name": "What's on at Barbican",
+      "venue": "Barbican Centre",
+      "date": "Week of 15 March 2026",
+      "url": "https://www.barbican.org.uk/whats-on",
+      "type": "Music / Art / Film"
+    },
+    {
+      "name": "What's on at Rough Trade East",
+      "venue": "Rough Trade East",
+      "date": "Week of 15 March 2026",
+      "url": "https://www.roughtrade.com/events",
+      "type": "Music / In-Store"
+    },
+    {
+      "name": "What's on at Southbank Centre",
+      "venue": "Southbank Centre",
+      "date": "Week of 15 March 2026",
+      "url": "https://www.southbankcentre.co.uk/whats-on",
+      "type": "Music / Art / Literature"
+    },
+    {
+      "name": "What's on at Tate Modern",
+      "venue": "Tate Modern",
+      "date": "Week of 15 March 2026",
+      "url": "https://www.tate.org.uk/visit/tate-modern/whats-on",
+      "type": "Art / Exhibition"
+    }
+  ],
+  "taste_summary": {
+    "top_artists": [
+      "BROCKHAMPTON",
+      "Angelo De Augustine",
+      "Aphex Twin",
+      "Alexisonfire",
+      "Bad Bunny"
+    ],
+    "top_genres": [
+      "experimental electronic",
+      "post-rock",
+      "art pop",
+      "alternative hip-hop",
+      "indie rock"
+    ]
+  }
+}
