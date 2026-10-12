@@ -1,0 +1,118 @@
+{
+  "week_of": "October 12, 2026",
+  "user_name": "Rhys",
+  "season": "autumn",
+  "weekly_theme": "Rooms You Used to Know",
+  "weekly_theme_description": "Been thinking about how certain things feel like walking into a space you haven't visited in years. The furniture's different but the light hits the same way. Everything this week has that quality of almost-recognition.",
+  "hero_art": {
+    "artist_name": "Vilhelm Hammersh\u00f8i",
+    "work_title": "Interior with Woman at Piano, Strandgade 30",
+    "medium": "Oil on canvas",
+    "period": "Danish Symbolism, 1901",
+    "description": "A woman in a grey dress sits at a piano in an empty room. All muted tones, all stillness. Hammersh\u00f8i painted the same Copenhagen apartment over and over, finding infinite variations in quietness.",
+    "image_url": "https://www.artic.edu/iiif/2/3f1e0f6e-d365-f1c0-1b4a-bd7b13306b47/full/843,/0/default.jpg",
+    "source": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/11291"
+  },
+  "album_pick": {
+    "album": "Immunity",
+    "artist": "Clairo",
+    "year": "2019",
+    "album_image": null,
+    "standout_track": "Bags",
+    "is_new_artist": true,
+    "ai_description": "Soft-focus bedroom pop that grew up without losing its intimacy. The production sits between lo-fi and polished in a way that never settles, like Oklou if she leaned into restraint. Gets under your skin quietly.",
+    "id": null
+  },
+  "film_pick": {
+    "title": "After Life",
+    "director": "Hirokazu Kore-eda",
+    "year": "1998",
+    "poster": null,
+    "url": "",
+    "letterboxd_url": "",
+    "ai_description": "People in a way-station after death choose one memory to keep forever. Kore-eda films it like a documentary, interviewing real people about their actual memories alongside actors. Gentle until it destroys you."
+  },
+  "book_pick": {
+    "title": "Die Ringe des Saturn",
+    "author": "W. G. Sebald",
+    "year": "1995",
+    "cover": "https://covers.openlibrary.org/b/id/1029247-M.jpg",
+    "subjects": [],
+    "url": "https://openlibrary.org/works/OL46611W",
+    "page_count": "",
+    "ai_description": "A walk along the Suffolk coast that spirals into everything else: silkworms, Thomas Browne, the bombing of Germany. Sebald moves between subjects the way memory actually works, not in chapters but in associations."
+  },
+  "poem": {
+    "title": "In a Station of the Metro",
+    "author": "Ezra Pound",
+    "year": "1913",
+    "full_text": "The apparition of these faces in the crowd:\nPetals on a wet, black bough.",
+    "note": "Two lines that do what this whole week is about: the shock of seeing something familiar made strange."
+  },
+  "article": {
+    "title": "On Staying the Same Person",
+    "author": "Merve Emre",
+    "publication": "The New Yorker",
+    "description": "Emre writes about personality tests and the fantasy that we're consistent across time. She's skeptical and funny about the industries built on this idea while taking seriously what we want from self-knowledge."
+  },
+  "video_essays": [
+    {
+      "title": "How Does an Editor Think and Feel?",
+      "channel": "Every Frame a Painting",
+      "url": "https://www.youtube.com/watch?v=3Q3eITC01Fg",
+      "thumbnail": "https://i.ytimg.com/vi/3Q3eITC01Fg/hqdefault.jpg",
+      "duration": "9:25",
+      "description": "For the past ten years, I've been editing professionally. Yet one question always stumps me: \u201cHow do you know when to cut?",
+      "video_id": "3Q3eITC01Fg"
+    }
+  ],
+  "connection_web": "The Hammersh\u00f8i painting looks like how the quietest parts of Immunity sound. Kore-eda's film does what Sebald does in prose: lets one thing lead to another without forcing the connection. And that Pound poem is the whole thing in miniature, the way a single image can crack open into something larger. They all trust stillness to do heavy lifting.",
+  "reflection_prompt": "If you could only keep one memory perfectly clear, would you choose one that shaped you or one that simply felt good?",
+  "events": [
+    {
+      "name": "What's on at Rough Trade East",
+      "venue": "Rough Trade East",
+      "date": "Week of 12 October 2026",
+      "url": "https://www.roughtrade.com/events",
+      "type": "Music / In-Store"
+    },
+    {
+      "name": "What's on at Tate Modern",
+      "venue": "Tate Modern",
+      "date": "Week of 12 October 2026",
+      "url": "https://www.tate.org.uk/visit/tate-modern/whats-on",
+      "type": "Art / Exhibition"
+    },
+    {
+      "name": "What's on at Village Underground",
+      "venue": "Village Underground",
+      "date": "Week of 12 October 2026",
+      "url": "https://www.villageunderground.co.uk/events",
+      "type": "Music / Live"
+    },
+    {
+      "name": "Resident Advisor London",
+      "venue": "Various venues",
+      "date": "Week of 12 October 2026",
+      "url": "https://ra.co/events/uk/london",
+      "type": "Music / Nightlife"
+    }
+  ],
+  "taste_summary": {
+    "top_artists": [
+      "Aphex Twin",
+      "BROCKHAMPTON",
+      "Alexisonfire",
+      "Bad Bunny",
+      "System Of A Down"
+    ],
+    "top_genres": [
+      "IDM",
+      "experimental electronic",
+      "post-hardcore",
+      "alternative hip-hop",
+      "art rock"
+    ]
+  }
+}
