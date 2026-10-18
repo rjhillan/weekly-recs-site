@@ -1,0 +1,118 @@
+{
+  "week_of": "October 18, 2026",
+  "user_name": "Rhys",
+  "season": "autumn",
+  "weekly_theme": "Things That Return Without Warning",
+  "weekly_theme_description": "Autumn does this thing where it brings back feelings you forgot you had. Old anxieties, old certainties, the shape of someone's voice. This week is about recursion and recognition, how patterns come back changed but somehow the same.",
+  "hero_art": {
+    "artist_name": "Gerhard Richter",
+    "work_title": "Abstraktes Bild (809-4)",
+    "medium": "Oil on canvas",
+    "period": "Contemporary, 1994",
+    "description": "Richter scrapes and layers paint until you can't tell what came first. Looks like sediment, like something geological happening in fast-forward. All these buried colours trying to surface through grey, which feels right for November starting.",
+    "image_url": "https://www.artic.edu/iiif/2/b0d02c1d-ec9d-039e-1977-469806e8e3d9/full/843,/0/default.jpg",
+    "source": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/147003"
+  },
+  "album_pick": {
+    "album": "Visitor",
+    "artist": "Lullatone",
+    "year": "2014",
+    "album_image": null,
+    "standout_track": "The Pajama Song",
+    "is_new_artist": true,
+    "ai_description": "Japanese-American duo making tiny electronic songs about everyday rituals. Sounds like CHAI's sweetness without the punk edge, music box melodies over glitchy beats. Perfect for grey mornings when you need something gentle but not sleepy.",
+    "id": null
+  },
+  "film_pick": {
+    "title": "After Life",
+    "director": "Hirokazu Kore-eda",
+    "year": "1998",
+    "poster": null,
+    "url": "",
+    "letterboxd_url": "",
+    "ai_description": "People at a way-station choose one memory to take into eternity. Shot documentary-style with non-actors recounting real memories. Fits that Japanese folk influence in your music taste, the way Ichiko Aoba songs feel like catching something dissolving."
+  },
+  "book_pick": {
+    "title": "Die Ringe des Saturn",
+    "author": "W. G. Sebald",
+    "year": "1995",
+    "cover": "https://covers.openlibrary.org/b/id/1029247-M.jpg",
+    "subjects": [],
+    "url": "https://openlibrary.org/works/OL46611W",
+    "page_count": "",
+    "ai_description": "A walking tour of Suffolk that spirals into meditations on silkworms, Thomas Browne, colonial violence, herring fishing. Sebald moves between topics the way memory actually works, one thing calling up another until you've travelled centuries without noticing."
+  },
+  "poem": {
+    "title": "One Art",
+    "author": "Elizabeth Bishop",
+    "year": "1976",
+    "full_text": "The art of losing isn't hard to master;\nso many things seem filled with the intent\nto be lost that their loss is no disaster.\n\nLose something every day. Accept the fluster\nof lost door keys, the hour badly spent.\nThe art of losing isn't hard to master.\n\nThen practice losing farther, losing faster:\nplaces, and names, and where it was you meant\nto travel. None of these will bring disaster.\n\nI lost my mother's watch. And look! my last, or\nnext-to-last, of three loved houses went.\nThe art of losing isn't hard to master.\n\nI lost two cities, lovely ones. And, vaster,\nsome realms I owned, two rivers, a continent.\nI miss them, but it wasn't a disaster.\n\n\u2014Even losing you (the joking voice, a gesture\nI love) I shan't have lied. It's evident\nthe art of losing's not too hard to master\nthough it may look like (Write it!) like disaster.",
+    "note": "Bishop lying to herself in real time, the way the villanelle form makes her circle back and admit more each time."
+  },
+  "article": {
+    "title": "The Rehearsal",
+    "author": "Dan Chiasson",
+    "publication": "The New Yorker",
+    "description": "On repetition, Elizabeth Bishop again, and what it means to practice something until it becomes true. Chiasson writes about how poets use repetition not for emphasis but for transformation, the way saying something again changes what it means."
+  },
+  "video_essays": [
+    {
+      "title": "Erasing A Memory Doesn&#39;t Erase The Feeling // An Analysis Of &#39;Eternal Sunshine Of The Spotless Mind&#39;",
+      "channel": "BeanWatch",
+      "url": "https://www.youtube.com/watch?v=T35xFMfWvIo",
+      "thumbnail": "https://i.ytimg.com/vi/T35xFMfWvIo/hqdefault.jpg",
+      "duration": "13:25",
+      "description": "A quick on for you today due to hectic schedules and stress. But, I am far too late to watching this beautiful film. Watch Jonathan ...",
+      "video_id": "T35xFMfWvIo"
+    }
+  ],
+  "connection_web": "Bishop's villanelle keeps returning to the same line until it breaks. Richter scrapes back to earlier paint layers, making history visible. Kore-eda's film asks which moment you'd loop forever. Lullatone builds songs from repeated toy piano phrases. Sebald walks the same coastal path his narrator will die on. Everything here is about returning to something and finding it altered by the return itself.",
+  "reflection_prompt": "What would you choose if you could only keep one memory intact and had to let the rest blur?",
+  "events": [
+    {
+      "name": "What's on at Rough Trade East",
+      "venue": "Rough Trade East",
+      "date": "Week of 18 October 2026",
+      "url": "https://www.roughtrade.com/events",
+      "type": "Music / In-Store"
+    },
+    {
+      "name": "What's on at Village Underground",
+      "venue": "Village Underground",
+      "date": "Week of 18 October 2026",
+      "url": "https://www.villageunderground.co.uk/events",
+      "type": "Music / Live"
+    },
+    {
+      "name": "What's on at Southbank Centre",
+      "venue": "Southbank Centre",
+      "date": "Week of 18 October 2026",
+      "url": "https://www.southbankcentre.co.uk/whats-on",
+      "type": "Music / Art / Literature"
+    },
+    {
+      "name": "What's on at Barbican",
+      "venue": "Barbican Centre",
+      "date": "Week of 18 October 2026",
+      "url": "https://www.barbican.org.uk/whats-on",
+      "type": "Music / Art / Film"
+    }
+  ],
+  "taste_summary": {
+    "top_artists": [
+      "CHAI",
+      "Angelo De Augustine",
+      "JPEGMAFIA",
+      "BROCKHAMPTON",
+      "Alex Turner"
+    ],
+    "top_genres": [
+      "experimental pop",
+      "indie folk",
+      "alternative hip-hop",
+      "J-pop",
+      "art pop"
+    ]
+  }
+}
