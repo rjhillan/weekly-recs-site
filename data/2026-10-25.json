@@ -1,0 +1,116 @@
+{
+  "week_of": "October 25, 2026",
+  "user_name": "Rhys",
+  "season": "autumn",
+  "weekly_theme": "Things That Hold Their Shape",
+  "weekly_theme_description": "Been thinking about structure this week. Not rigid scaffolding, but the way certain things maintain form even when everything around them shifts. The album that sounds chaotic but never loses the thread. The painting held together by a single repeated curve.",
+  "hero_art": {
+    "artist_name": "Hilma af Klint",
+    "work_title": "The Swan, No. 17",
+    "medium": "Oil on canvas",
+    "period": "Abstract, 1915",
+    "description": "Two swans, one black, one white, their necks forming a perfect heart. Painted before anyone was supposedly doing abstraction. The geometry feels inevitable, like she found a shape that was already there waiting. Hangs in the Guggenheim but was hidden for decades.",
+    "image_url": "https://www.artic.edu/iiif/2/2cf49d1b-3dad-8dd3-abc7-59317978462e/full/843,/0/default.jpg",
+    "source": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/159823"
+  },
+  "album_pick": {
+    "album": "Romantic Piano",
+    "artist": "Kai Whiston",
+    "year": "2020",
+    "album_image": null,
+    "standout_track": "No Best Friend",
+    "is_new_artist": true,
+    "ai_description": "The title is a joke and dead serious at once. Whiston builds these intricate electronic structures that collapse and rebuild themselves every few bars, but there's always a melody holding the centre. Feels like watching something break in slow motion and realizing it was meant to.",
+    "id": null
+  },
+  "film_pick": {
+    "title": "In the Mood for Love",
+    "director": "Wong Kar-wai",
+    "year": "2000",
+    "poster": null,
+    "url": "",
+    "letterboxd_url": "",
+    "ai_description": "Two neighbours realize their spouses are having an affair with each other. The whole film is structured around repetition\u2014same corridors, same noodle shop, same dresses\u2014but each repetition shifts the meaning slightly. Everything held in place by formality and colour."
+  },
+  "book_pick": {
+    "title": "Deaf Republic",
+    "author": "Ilya Kaminsky",
+    "year": "2019",
+    "cover": null,
+    "url": "",
+    "ai_description": "A town goes deaf when soldiers shoot a boy. The poems are spare, almost blunt, but they're held together by this fictional town that feels realer than memory. Kaminsky keeps the structure tight even when describing chaos."
+  },
+  "poem": {
+    "title": "The Red Wheelbarrow",
+    "author": "William Carlos Williams",
+    "year": "1923",
+    "full_text": "so much depends\nupon\n\na red wheel\nbarrow\n\nglazed with rain\nwater\n\nbeside the white\nchickens.",
+    "note": "Nine words doing the work of a hundred. The line breaks make you slow down and see the shape of each image."
+  },
+  "article": {
+    "title": "On Keeping a Notebook",
+    "author": "Joan Didion",
+    "publication": "Slouching Towards Bethlehem",
+    "description": "Didion writing about why she writes things down, what notebooks preserve and what they can't. She's interested in the structure of memory\u2014how certain details become load-bearing while others disappear. First published in Holiday magazine, later collected in her 1968 essay collection."
+  },
+  "video_essays": [
+    {
+      "title": "5 Techniques For Framing Cinematic Shots",
+      "channel": "In Depth Cine",
+      "url": "https://www.youtube.com/watch?v=GtPqDPhx-EI",
+      "thumbnail": "https://i.ytimg.com/vi/GtPqDPhx-EI/hqdefault.jpg",
+      "duration": "12:10",
+      "description": "Filmmakers compose and visually present information within a frame. Let's go over five different techniques which may help you ...",
+      "video_id": "GtPqDPhx-EI"
+    }
+  ],
+  "connection_web": "Whiston's tracks fold in on themselves the way af Klint's swans mirror each other, both finding patterns that feel discovered rather than imposed. Williams breaks 'wheelbarrow' across two lines the same way Wong Kar-wai repeats that hallway\u2014the structure creates the meaning. Kaminsky's town and Didion's notebooks both understand that form is what lets you hold difficult truths without letting them scatter.",
+  "reflection_prompt": "What's something in your life that only held together because you kept the same routine, even when everything else changed?",
+  "events": [
+    {
+      "name": "What's on at Rough Trade East",
+      "venue": "Rough Trade East",
+      "date": "Week of 25 October 2026",
+      "url": "https://www.roughtrade.com/events",
+      "type": "Music / In-Store"
+    },
+    {
+      "name": "What's on at Southbank Centre",
+      "venue": "Southbank Centre",
+      "date": "Week of 25 October 2026",
+      "url": "https://www.southbankcentre.co.uk/whats-on",
+      "type": "Music / Art / Literature"
+    },
+    {
+      "name": "What's on at Barbican",
+      "venue": "Barbican Centre",
+      "date": "Week of 25 October 2026",
+      "url": "https://www.barbican.org.uk/whats-on",
+      "type": "Music / Art / Film"
+    },
+    {
+      "name": "What's on at Tate Modern",
+      "venue": "Tate Modern",
+      "date": "Week of 25 October 2026",
+      "url": "https://www.tate.org.uk/visit/tate-modern/whats-on",
+      "type": "Art / Exhibition"
+    }
+  ],
+  "taste_summary": {
+    "top_artists": [
+      "CHAI",
+      "Angelo De Augustine",
+      "JPEGMAFIA",
+      "BROCKHAMPTON",
+      "Alex Turner"
+    ],
+    "top_genres": [
+      "experimental pop",
+      "indie folk",
+      "art rock",
+      "Japanese indie",
+      "hyperpop"
+    ]
+  }
+}
