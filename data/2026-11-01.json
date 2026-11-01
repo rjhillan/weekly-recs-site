@@ -1,0 +1,118 @@
+{
+  "week_of": "November 01, 2026",
+  "user_name": "Rhys",
+  "season": "autumn",
+  "weekly_theme": "Things That Hold Their Shape",
+  "weekly_theme_description": "Walked past a building site this week and watched them pour concrete into forms. Got me thinking about all the invisible structures that keep things from collapsing. The routines, the repetitions, the containers we barely notice until they're gone.",
+  "hero_art": {
+    "artist_name": "Giorgio Morandi",
+    "work_title": "Still Life",
+    "medium": "Oil on canvas",
+    "period": "1956",
+    "description": "Morandi painted the same bottles and jars for decades. Different arrangements, same objects. The colours are dusty, muted, barely there. You start seeing the air between things as much as the things themselves.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Still_life_fleamarket_amk.jpg/960px-Still_life_fleamarket_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Still life fleamarket amk.jpg"
+  },
+  "album_pick": {
+    "album": "Crusher",
+    "artist": "Crumb",
+    "year": "2019",
+    "album_image": null,
+    "standout_track": "Ghostride",
+    "is_new_artist": true,
+    "ai_description": "Psychedelic bedroom pop that moves like smoke through a room. Lila Ramani's voice floats over these warped, wobbly guitar lines and jazz-touched drums. Feels late-night and loose but never falls apart.",
+    "id": null
+  },
+  "film_pick": {
+    "title": "The Gleaners and I",
+    "director": "Agn\u00e8s Varda",
+    "year": "2000",
+    "poster": null,
+    "url": "",
+    "letterboxd_url": "",
+    "ai_description": "Varda films people who collect what others throw away\u2014food, objects, meaning. She's in her seventies with a handheld camera, finding shape in leftovers. Generous and curious without being precious about it."
+  },
+  "book_pick": {
+    "title": "Dept of Speculation",
+    "author": "Jenny Offill",
+    "year": "2014",
+    "cover": "https://covers.openlibrary.org/b/id/7788979-M.jpg",
+    "subjects": [],
+    "url": "https://openlibrary.org/works/OL17543672W",
+    "page_count": "",
+    "ai_description": "A marriage in fragments. Each page is a paragraph or two, sometimes just a line. Reads fast but stays with you. Offill knows how to hold a whole life in the gaps between moments."
+  },
+  "poem": {
+    "title": "The Orange",
+    "author": "Wendy Cope",
+    "year": "1986",
+    "full_text": "At lunchtime I bought a huge orange\u2014\nThe size of it made us all laugh.\nI peeled it and shared it with Robert and Dave\u2014\nThey got quarters and I had a half.\n\nAnd that orange, it made me so happy,\nAs ordinary things often do\nJust lately. The shopping. A walk in the park.\nThis is peace and contentment. It's new.\n\nThe rest of the day was quite easy.\nI did all the jobs on my list\nAnd enjoyed them and had some time over.\nI love you. I'm glad I exist.",
+    "note": "Cope makes a whole philosophy out of an orange at lunch. The structure holds something small until it feels huge."
+  },
+  "article": {
+    "title": "On Keeping a Notebook",
+    "author": "Joan Didion",
+    "publication": "Slouching Towards Bethlehem",
+    "description": "Didion writes about why she saves scraps of observation that don't mean anything to anyone else. It's about building a container for memory, even when memory lies. Sharp and honest about the self-deception involved in writing anything down."
+  },
+  "video_essays": [
+    {
+      "title": "Akira Kurosawa - Composing Movement",
+      "channel": "Every Frame a Painting",
+      "url": "https://www.youtube.com/watch?v=doaQC-S8de8",
+      "thumbnail": "https://i.ytimg.com/vi/doaQC-S8de8/hqdefault.jpg",
+      "duration": "8:25",
+      "description": "Can movement tell a story? Sure, if you're as gifted as Akira Kurosawa. More than any other filmmaker, he had an innate ...",
+      "video_id": "doaQC-S8de8"
+    }
+  ],
+  "connection_web": "Morandi's bottles are like the forms in that concrete pour\u2014containers that give shape to empty space. Crumb's songs and Offill's fragments both trust repetition to hold things together without explaining too much. Varda and Didion both collect small moments and let the structure reveal itself later. Cope's orange is the plainest version of all this: something ordinary you can hold in your hand.",
+  "reflection_prompt": "What's the smallest routine you'd actually miss if it disappeared tomorrow?",
+  "events": [
+    {
+      "name": "What's on at Rough Trade East",
+      "venue": "Rough Trade East",
+      "date": "Week of 01 November 2026",
+      "url": "https://www.roughtrade.com/events",
+      "type": "Music / In-Store"
+    },
+    {
+      "name": "What's on at Village Underground",
+      "venue": "Village Underground",
+      "date": "Week of 01 November 2026",
+      "url": "https://www.villageunderground.co.uk/events",
+      "type": "Music / Live"
+    },
+    {
+      "name": "What's on at Southbank Centre",
+      "venue": "Southbank Centre",
+      "date": "Week of 01 November 2026",
+      "url": "https://www.southbankcentre.co.uk/whats-on",
+      "type": "Music / Art / Literature"
+    },
+    {
+      "name": "What's on at Barbican",
+      "venue": "Barbican Centre",
+      "date": "Week of 01 November 2026",
+      "url": "https://www.barbican.org.uk/whats-on",
+      "type": "Music / Art / Film"
+    }
+  ],
+  "taste_summary": {
+    "top_artists": [
+      "CHAI",
+      "Angelo De Augustine",
+      "JPEGMAFIA",
+      "BROCKHAMPTON",
+      "Alex Turner"
+    ],
+    "top_genres": [
+      "experimental pop",
+      "indie folk",
+      "Japanese indie",
+      "alternative hip-hop",
+      "art rock"
+    ]
+  }
+}
